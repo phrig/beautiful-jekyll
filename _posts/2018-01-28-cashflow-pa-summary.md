@@ -4,7 +4,7 @@ title: Cashflow PA
 subtitle: Summary and our timeline
 ---
 
-In late September, 2017, we participated in the first [Code4PA hackathon](https://www.code4pa.tech/) in which we were tasked to use open state data to *increase transparency and efficiency for public engagement with the government*. We came up with Cashflow PA: a web application that maps campaign contributions, expenses, receipts, and debts filed for Pennsylvania state elections. It uses databases found on Pennsylvania's [open data portal](https://data.pa.gov/).
+In late September, 2017, we participated in the first [Code4PA hackathon](https://www.code4pa.tech/) in which we were tasked to use open state data to *increase transparency and efficiency for public engagement with the government*. We came up with Cashflow PA: a web application that maps campaign contributions, expenses, receipts, and debts filed for Pennsylvania state elections. It uses data sets found on Pennsylvania's [open data portal](https://data.pa.gov/).
 
 Here's one of the mock-ups we created:
 
@@ -16,7 +16,7 @@ We pitched the app a month later and decided to keep working on it.
 
 Here are some milestones we've already hit.
 
-* We've migrated a ton of data from a disparate collection of databases over to our own so that we can whip it into shape and serve it up fast.
+* We've migrated a ton of data from a disparate collection of data sets over to our own so that we can whip it into shape and serve it up fast.
 
 * We've implemented test-driven-development to build a sturdy app.
 
