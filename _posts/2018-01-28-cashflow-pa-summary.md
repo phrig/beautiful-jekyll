@@ -16,7 +16,7 @@ We pitched the app a month later and decided to keep working on it.
 
 Here are some milestones we've already hit.
 
-* We've migrated a ton of data from a disparate collection of data sets over to our own so that we can whip it into shape and serve it up fast.
+* We've migrated a ton of data from a disparate collection of data sets over to our own database so that we can whip it into shape and serve it up fast.
 
 * We've implemented test-driven-development to build a sturdy app.
 
@@ -25,7 +25,8 @@ Here are some milestones we've already hit.
 
 ## Where we're heading
 
-Timeline: we're hoping to roll out an MVP by February 19th (2018) and then presenting the (hopefully working) app to the PA Governor's office and a committee of executives on March 14th.
+{: .box-note}
+**Timeline:** we're hoping to roll out an MVP by February 19th (2018) and then present the (hopefully working) app to the PA Governor's office and a committee of executives on March 14th.
 
 We have several quality-of-life concerns to roll out for the app's basic functionality, and we're also planning to offer some insights into what we've found.
 
