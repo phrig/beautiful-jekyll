@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: PHRIG
+title: PhRIG
 
 # Short description of your site
 description: Philadelphia Research and Innovation Group
@@ -56,7 +56,7 @@ navbar-highlight: "#ffce00"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: PHRIG
+  name: PhRIG
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -67,7 +67,7 @@ social-network-links:
   email: "heyphrig@gmail.com"
   #facebook: daattali
   github: phrig
-  twitter: philly-rig
+  twitter: heyphrig
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
@@ -84,10 +84,10 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: false
+  twitter: true
   facebook: false
   google: false
-  linkedin: false
+  linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
