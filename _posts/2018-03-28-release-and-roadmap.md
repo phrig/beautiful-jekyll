@@ -12,7 +12,9 @@ Please check it out when you can and search for some locations and filers.
 Prior to the release, we finished up the site architecture and then polished up the functionality with a few last minute revisions.
 
 Here's an example:
+
 ![Cashflow PA query plan](/img/cashflow-pa/cashflow-pa-query_plan.png)
+
 Take note of the planning time and execution time in the middle as compared to the old query times at the bottom. We condensed the time for each database query by about 2/3rds!
 
 ### Governor's Office presentation
@@ -74,7 +76,7 @@ With the v1 rollout, we can now focus on shoring up the site so it remains funct
   </ul>
 </details>
 
-#### Further on out
+### Further on out
 
 As we move forward with the project, we'd like to visualize data with charts and graphs, and we'd also like to take the site on the road to conferences like Barcamp Philly.
 
